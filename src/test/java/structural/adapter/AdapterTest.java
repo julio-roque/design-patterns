@@ -5,7 +5,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-@DisplayName("Adapter Pattern")
+@DisplayName("Adapter Design Pattern")
 class AdapterTest {
     RoundHole hole;
     RoundPeg roundPeg;
