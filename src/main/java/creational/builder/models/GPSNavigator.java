@@ -1,4 +1,4 @@
-package creational.Builder.models;
+package creational.builder.models;
 
 public class GPSNavigator {
     private String route;

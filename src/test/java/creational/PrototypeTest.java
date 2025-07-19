@@ -1,10 +1,10 @@
 package creational;
 
 
-import creational.Prototype.BundleShapeCache;
-import creational.Prototype.Circle;
-import creational.Prototype.Rectangle;
-import creational.Prototype.Shape;
+import creational.prototype.BundleShapeCache;
+import creational.prototype.Circle;
+import creational.prototype.Rectangle;
+import creational.prototype.Shape;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

@@ -1,12 +1,12 @@
-package creational.Builder.builders;
+package creational.builder.builders;
 
-import creational.Builder.*;
-import creational.Builder.enums.CarType;
-import creational.Builder.enums.Transmission;
-import creational.Builder.models.Car;
-import creational.Builder.models.Engine;
-import creational.Builder.models.GPSNavigator;
-import creational.Builder.models.TripComputer;
+import creational.builder.*;
+import creational.builder.enums.CarType;
+import creational.builder.enums.Transmission;
+import creational.builder.models.Car;
+import creational.builder.models.Engine;
+import creational.builder.models.GPSNavigator;
+import creational.builder.models.TripComputer;
 
 public class CarBuilder implements IBuilder {
     private CarType type;

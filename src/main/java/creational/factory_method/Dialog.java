@@ -1,4 +1,4 @@
-package creational.FactoryMethod;
+package creational.factory_method;
 
 public abstract class Dialog {
     private Button button;

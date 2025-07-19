@@ -1,4 +1,4 @@
-package creational.Singleton;
+package creational.singleton;
 
 public class Singleton {
     private static volatile Singleton instance;

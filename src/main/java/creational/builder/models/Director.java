@@ -1,8 +1,8 @@
-package creational.Builder.models;
+package creational.builder.models;
 
-import creational.Builder.IBuilder;
-import creational.Builder.enums.CarType;
-import creational.Builder.enums.Transmission;
+import creational.builder.IBuilder;
+import creational.builder.enums.CarType;
+import creational.builder.enums.Transmission;
 
 public class Director {
     public void constructSportsCar(IBuilder builder) {

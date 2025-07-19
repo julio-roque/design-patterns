@@ -1,10 +1,10 @@
 package creational;
 
-import creational.Builder.models.Car;
-import creational.Builder.builders.CarBuilder;
-import creational.Builder.models.Director;
-import creational.Builder.enums.CarType;
-import creational.Builder.enums.Transmission;
+import creational.builder.models.Car;
+import creational.builder.builders.CarBuilder;
+import creational.builder.models.Director;
+import creational.builder.enums.CarType;
+import creational.builder.enums.Transmission;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

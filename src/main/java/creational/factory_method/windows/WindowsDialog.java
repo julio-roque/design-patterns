@@ -1,7 +1,7 @@
-package creational.FactoryMethod.windows;
+package creational.factory_method.windows;
 
-import creational.FactoryMethod.Button;
-import creational.FactoryMethod.Dialog;
+import creational.factory_method.Button;
+import creational.factory_method.Dialog;
 
 public class WindowsDialog extends Dialog {
 

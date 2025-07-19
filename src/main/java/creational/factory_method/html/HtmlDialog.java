@@ -1,7 +1,7 @@
-package creational.FactoryMethod.html;
+package creational.factory_method.html;
 
-import creational.FactoryMethod.Button;
-import creational.FactoryMethod.Dialog;
+import creational.factory_method.Button;
+import creational.factory_method.Dialog;
 
 public class HtmlDialog extends Dialog {
 

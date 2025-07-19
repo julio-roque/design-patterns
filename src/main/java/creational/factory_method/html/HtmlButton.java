@@ -1,6 +1,6 @@
-package creational.FactoryMethod.html;
+package creational.factory_method.html;
 
-import creational.FactoryMethod.Button;
+import creational.factory_method.Button;
 
 public class HtmlButton implements Button {
     public void render() {

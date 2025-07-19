@@ -1,8 +1,8 @@
 package creational;
 
-import creational.FactoryMethod.Dialog;
-import creational.FactoryMethod.html.HtmlDialog;
-import creational.FactoryMethod.windows.WindowsDialog;
+import creational.factory_method.Dialog;
+import creational.factory_method.html.HtmlDialog;
+import creational.factory_method.windows.WindowsDialog;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
