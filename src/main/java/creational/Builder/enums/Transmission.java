@@ -1,4 +1,4 @@
-package creational.builder.enums;
+package creational.Builder.enums;
 
 public enum Transmission {
     SINGLE_SPEED, MANUAL, AUTOMATIC, SEMI_AUTOMATIC

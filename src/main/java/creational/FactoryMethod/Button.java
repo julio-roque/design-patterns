@@ -1,4 +1,4 @@
-package creational.factoryMethod;
+package creational.FactoryMethod;
 
 public interface Button {
     void render();

@@ -1,7 +1,7 @@
-package creational.builder.models;
+package creational.Builder.models;
 
-import creational.builder.enums.CarType;
-import creational.builder.enums.Transmission;
+import creational.Builder.enums.CarType;
+import creational.Builder.enums.Transmission;
 
 public class Manual {
     private final CarType carType;

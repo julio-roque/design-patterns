@@ -1,6 +1,6 @@
-package creational.factoryMethod.windows;
+package creational.FactoryMethod.windows;
 
-import creational.factoryMethod.Button;
+import creational.FactoryMethod.Button;
 
 import javax.swing.*;
 import java.awt.*;

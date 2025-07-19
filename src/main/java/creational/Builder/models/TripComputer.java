@@ -1,4 +1,4 @@
-package creational.builder.models;
+package creational.Builder.models;
 
 public class TripComputer {
 

@@ -1,6 +1,6 @@
 package creational;
 
-import creational.singleton.Singleton;
+import creational.Singleton.Singleton;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
