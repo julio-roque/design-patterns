@@ -1,5 +1,6 @@
 package creational;
 
+import creational.singleton.Singleton;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -7,7 +8,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-@DisplayName("Test for Singleton Pattern")
+@DisplayName("Singleton Design Pattern Test")
 class SingletonTest {
 
     @Test
